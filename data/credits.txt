@@ -1,0 +1,39 @@
+EN / RU — FrequencyWords by Hermit Dave.
+OpenSubtitles 2018 frequency lists, repackaged with gzip, licensed CC BY-SA 4.0.
+https://github.com/hermitdave/FrequencyWords/tree/525f9b560de45753a5ea01069454e72e9aa541c6/content/2018
+https://creativecommons.org/licenses/by-sa/4.0/
+
+KK — myspell-kk by Kaldybai Bektaiuly and contributors, based on aspell-kk by Alexey Lipchansky.
+Expanded to inflected forms using the MIT-licensed expansion script by Fredrik Borgström.
+The resulting word list is distributed under MPL 1.1.
+SpaceFix also derives Russian-letter spellings from MySpell entries and marks ambiguous inputs under MPL 1.1.
+https://github.com/kergalym/myspell-kk
+https://github.com/FredrikBorgstrom/dict-kk-kz/tree/8c8ffd22216f7bc37603e1474c9e7f4bbbf00f4b
+https://www.mozilla.org/en-US/MPL/1.1/
+
+RU spelling corrections — KartaSlov by Dmitry Kulagin and contributors.
+The adapted table is a filtered subset of the spelling-error pairs. It is licensed CC BY-NC-SA 4.0.
+https://github.com/dkulagin/kartaslov/tree/261eb5a10f558da87c5d8c0bfc51c3cd79719799/dataset/orfo_and_typos
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+RU spelling corrections — RUSpellRU from RuSpellEval, distributed by AI Forever.
+The adapted table contains single-word corrections extracted from sentence pairs. It is licensed MIT.
+https://huggingface.co/datasets/ai-forever/spellcheck_punctuation_benchmark/tree/efa1663eade2afd35c8569fb149f94751c3cbfc0/data/RUSpellRU
+https://github.com/ai-forever/sage/blob/main/docs/source/rst/datasets/RUSpellRU.rst
+
+EN spelling corrections — TOEFL-Spell by Educational Testing Service, Michael Flor, Michael Fried and Alla Rozovskaya.
+The adapted table is a filtered subset of the single-word annotations. It is licensed CC BY-SA 4.0.
+https://github.com/EducationalTestingService/TOEFL-Spell/tree/252ee893b75dbf6186facf9ffda5fc4bc5dc9eca
+https://aclanthology.org/W19-4407/
+https://creativecommons.org/licenses/by-sa/4.0/
+
+KK spelling corrections — SauAtai Ertegiler Kazakh misspellings by alphazhan.
+The adapted table contains single-word corrections extracted from sentence pairs with synthetic typos.
+It is licensed CC BY 4.0.
+https://huggingface.co/datasets/alphazhan/sauatai-ertegiler-kz-misspellings-kk-s170-len60-n6-m1-3-v1/tree/ec78333a1ef4f99f0836ca32639780d4b7752733
+https://creativecommons.org/licenses/by/4.0/
+
+KK words typed with Russian letters — adapted from Kazakh Lexical Complexity Classes by Gulnur7, CC BY 4.0.
+SpaceFix uses selected A1, A2, B1, B2 and C1 forms, verifies them against its Kazakh dictionary and derives unambiguous Russian-letter variants.
+https://huggingface.co/datasets/Gulnur7/kazakh-lexical-complexity-classes/blob/85ce668badb9ab7d2477056d4cf31772e7698dd6/README.md
+https://creativecommons.org/licenses/by/4.0/

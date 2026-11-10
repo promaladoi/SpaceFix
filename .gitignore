@@ -1,0 +1,10 @@
+*.exe
+*.pdb
+*.lnk
+*.tmp
+__pycache__/
+downloads/
+data/output/
+tests/chrome-fixture-*/
+tests/webdeps/
+personal-dictionary.tsv
